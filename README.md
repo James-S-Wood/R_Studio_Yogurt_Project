@@ -5,4 +5,4 @@
 #### Author: James S Wood
 
 ## Project Description
-This is a R Studio test project. This project will explore the yogurt.csv dataset.
+This is a R Studio test project. This project will explore the yogurt.csv data set.
